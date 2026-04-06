@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "table": "CODBEX_ACCOUNT",
+      "schema": "PUBLIC",
+      "file": "/codbex-accounts-data/account.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0.0"
+    },
+    {
+      "table": "CODBEX_JOURNALENTRY_DIRECTION",
+      "schema": "PUBLIC",
+      "file": "/codbex-accounts-data/journal-entry-direction.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0.0"
+    },
+    {
+      "table": "CODBEX_JOURNALENTRY_DIRECTION_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-accounts-data/journal-entry-direction-lang.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0.0"
+    },
+    {
+      "table": "CODBEX_ACCOUNT_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-accounts-data/account-lang.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0.0"
+    }
+  ]
+}
