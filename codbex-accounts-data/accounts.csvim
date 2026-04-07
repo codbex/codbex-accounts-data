@@ -23,7 +23,7 @@
       "version": "1.0.0"
     },
     {
-      "table": "CODBEX_JOURNALENTRY_DIRECTION_LANG",
+      "table": "CODBEX_JOURNALENTRYDIRECTION_LANG",
       "schema": "PUBLIC",
       "file": "/codbex-accounts-data/journal-entry-direction-lang.csv",
       "header": true,

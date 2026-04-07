@@ -1,5 +1,5 @@
 {
-    "name": "CODBEX_JOURNALENTRY_DIRECTION_LANG",
+    "name": "CODBEX_JOURNALENTRYDIRECTION_LANG",
     "type": "TABLE",
     "columns": [
         {
