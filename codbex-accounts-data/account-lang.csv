@@ -1,0 +1,61 @@
+GUID,Id,Name,Language
+1,1,Активи,bg
+2,2,Банка,bg
+3,3,Каса,bg
+4,4,Вземания от клиенти,bg
+5,5,Инвентар,bg
+6,6,Пасиви,bg
+7,7,Задължения към доставчици,bg
+8,8,Контрол на ДДС при продажби,bg
+9,9,Контрол на ДДС при покупки,bg
+10,10,ДДС за внасяне,bg
+11,11,Собствен капитал,bg
+12,12,Капитал,bg
+13,13,Неразпределена печалба,bg
+14,14,Приходи,bg
+15,15,Продажби,bg
+16,16,Доставка,bg
+17,17,Разходи,bg
+18,18,Себестойност на продадените стоки,bg
+19,19,Директни разходи,bg
+20,20,Общи разходи,bg
+21,1,Aktiva,de
+22,2,Bank,de
+23,3,Kasse,de
+24,4,Forderungen,de
+25,5,Inventar,de
+26,6,Verbindlichkeiten,de
+27,7,Verbindlichkeiten aus LuL,de
+28,8,Umsatzsteuer-Kontrolle,de
+29,9,Vorsteuer-Kontrolle,de
+30,10,Umsatzsteuerschuld,de
+31,11,Eigenkapital,de
+32,12,Kapital,de
+33,13,Gewinnvortrag,de
+34,14,Einkommen,de
+35,15,Umsätze,de
+36,16,Versand,de
+37,17,Ausgaben,de
+38,18,Herstellungskosten,de
+39,19,Direkte Ausgaben,de
+40,20,Gemeinkosten,de
+41,1,Actifs,fr
+42,2,Banque,fr
+43,3,Caisse,fr
+44,4,Créances clients,fr
+45,5,Inventaire,fr
+46,6,Passif,fr
+47,7,Dettes fournisseurs,fr
+48,8,Contrôle de la taxe sur les ventes,fr
+49,9,Contrôle de la taxe sur les achats,fr
+50,10,TVA due,fr
+51,11,Capitaux propres,fr
+52,12,Capital,fr
+53,13,Bénéfices non répartis,fr
+54,14,Revenus,fr
+55,15,Ventes,fr
+56,16,Frais d'expédition,fr
+57,17,Dépenses,fr
+58,18,Coût des marchandises vendues,fr
+59,19,Charges directes,fr
+60,20,Frais généraux,fr
