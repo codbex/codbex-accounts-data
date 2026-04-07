@@ -12,7 +12,7 @@
       "version": "1.0.0"
     },
     {
-      "table": "CODBEX_JOURNALENTRY_DIRECTION",
+      "table": "CODBEX_JOURNALENTRYDIRECTION",
       "schema": "PUBLIC",
       "file": "/codbex-accounts-data/journal-entry-direction.csv",
       "header": true,
