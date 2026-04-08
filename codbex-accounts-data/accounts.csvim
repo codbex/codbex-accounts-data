@@ -3,46 +3,50 @@
     {
       "table": "CODBEX_ACCOUNT",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/account.csv",
+      "file": "/codbex-accounts-data/account/account.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "1.0.0"
+      "version": "1.0",
+      "sequence": "CODBEX_ACCOUNT_SEQ"
     },
     {
       "table": "CODBEX_JOURNALENTRYDIRECTION",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/journal-entry-direction.csv",
+      "file": "/codbex-accounts-data/journalentry-direction/journal-entry-direction.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "1.0.0"
+      "version": "1.0",
+      "sequence": "CODBEX_JOURNALENTRYDIRECTION_SEQ"
     },
     {
       "table": "CODBEX_JOURNALENTRYDIRECTION_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/journal-entry-direction-lang.csv",
+      "file": "/codbex-accounts-data/journalentry-direction/journal-entry-direction-lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "1.0.0"
+      "version": "1.0",
+      "sequence": "CODBEX_JOURNALENTRYDIRECTION_LANG_SEQ"
     },
     {
       "table": "CODBEX_ACCOUNT_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/account-lang.csv",
+      "file": "/codbex-accounts-data/account/account-lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": "1.0.0"
+      "version": "1.0",
+      "sequence": "CODBEX_ACCOUNT_LANG_SEQ"
     }
   ]
 }
