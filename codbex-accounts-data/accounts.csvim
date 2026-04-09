@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_ACCOUNT",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/account/account.csv",
+      "file": "/codbex-accounts-data/account/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -15,7 +15,7 @@
     {
       "table": "CODBEX_JOURNALENTRYDIRECTION",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/journalentry-direction/journal-entry-direction.csv",
+      "file": "/codbex-accounts-data/journalentry-direction/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -27,7 +27,7 @@
     {
       "table": "CODBEX_JOURNALENTRYDIRECTION_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/journalentry-direction/journal-entry-direction-lang.csv",
+      "file": "/codbex-accounts-data/journalentry-direction/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -39,7 +39,7 @@
     {
       "table": "CODBEX_ACCOUNT_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-accounts-data/account/account-lang.csv",
+      "file": "/codbex-accounts-data/account/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
