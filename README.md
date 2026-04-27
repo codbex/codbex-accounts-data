@@ -1,11 +1,15 @@
-# codbex-accounts-data
-Accounts Management Data
+# <img src="https://www.codbex.com/icon.svg" width="32" style="vertical-align: middle;"> codbex-accounts-data
 
-## Overview
+## 📖 Table of Contents
+* [📦 Data](#-data)
+* [🐳 Local Development with Docker](#-local-development-with-docker)
 
-- Provides data for [codbex-accounts](https://github.com/codbex/codbex-accounts) module.
+## 📦 Data 
 
-## Local Development with Docker
+* [Accounts](https://github.com/codbex/codbex-accounts-data/tree/main/codbex-accounts-data/account)
+* [Journal Entry Direction](https://github.com/codbex/codbex-accounts-data/tree/main/codbex-accounts-data/journalentry-direction) 
+
+## 🐳 Local Development with Docker
 
 When running this project inside the codbex Atlas Docker image, you must provide authentication for installing dependencies from GitHub Packages.
 1. Create a GitHub Personal Access Token (PAT) with `read:packages` scope.
